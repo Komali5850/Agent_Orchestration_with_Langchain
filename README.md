@@ -1,5 +1,5 @@
 
-# Arogya Wellness Assistant
+# Agent Orchestration with Langchain
 
 Arogya Wellness Assistant is a full-stack, multi-agent health and wellness assistant.
 
